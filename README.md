@@ -1,0 +1,2 @@
+# primerParcial
+Estudio computacional
